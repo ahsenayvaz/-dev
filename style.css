@@ -1,0 +1,63 @@
+.text-dark-purple {
+    color: rgb(42, 10, 71);
+}
+
+.text-violet {
+        color: rgb(167, 132, 200);
+}
+
+.text-blue {
+        color: rgb(130, 228, 255);
+}
+
+.text-dark-blue {
+
+    color: rgb(28, 28, 109);
+}
+
+.text-mint {
+color: aquamarine;
+
+}
+
+.fs-45 {
+font-size: 45px;
+
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+
+.fs-20 {
+    font-size: 20px;
+}
+
+
+.italic {
+ font-style: italic;
+}
+
+#baslik {
+color: red;
+font-size: 60px;    
+font-style: oblique;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+}
+
+.ff-georgia {
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+
+    text-align: center;
+}
